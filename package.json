@@ -1,0 +1,11 @@
+{
+  "name": "OpenCV-Test",
+  "version": "0.1.0",
+  "description": "lorem ipsum",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "opencv": "^3.2.0"
+  },
+  "dependencies": {}
+}
